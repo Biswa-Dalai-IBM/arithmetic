@@ -1,1 +1,0 @@
-(100 divide 5) plus (3 multiply 7) subtract 2
